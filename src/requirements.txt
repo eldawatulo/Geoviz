@@ -1,0 +1,11 @@
+pandas>=1.5
+geopandas>=0.13
+shapely>=2.0
+pyproj
+fiona
+matplotlib
+plotly
+folium
+streamlit
+jupyterlab
+python-dotenv
